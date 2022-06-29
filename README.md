@@ -7,6 +7,10 @@
 
 <h1 align="center">App-Financas</h1>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=Green&style=for-the-badge"/>
+</p>
+
 
 <p align="center">ÍNDICE...</p>
 <p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
