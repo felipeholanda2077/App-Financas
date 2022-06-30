@@ -8,7 +8,7 @@
 <h1 align="center">App-Financas</h1>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=Green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=yellow&style=for-the-badge"/>
 </p>
 
 <br>
@@ -20,6 +20,14 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
+
+<h3 align="center">Sobre o Projeto</h3>
+
+<br>
+
+<h4 align="center">Um App de Finançãs para gestão de economia de dinheiro</h4>
+<h3 align="center">🚀 1º - Fase Concluido / Front-End 🚀</h3>
+<h3 align="center">🚧 2º - Em Andamento / Funções de bancos de dados 🚧</h3>
 
 <table align="center">
  <tr>
