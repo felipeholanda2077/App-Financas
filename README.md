@@ -25,11 +25,13 @@
 
 <h3 align="center">Sobre o Projeto</h3>
 
-<br>
-
 <h4 align="center">Um App de Finançãs para gestão de economia de dinheiro</h4>
 <h3 align="center">🚀 1º - Fase Concluido / Front-End 🚀</h3>
 <h3 align="center">🚧 2º - Em Andamento / Funções de bancos de dados 🚧</h3>
+
+<br><br>
+
+<h1 align="center">Imagem</h1>
 
 <table align="center">
  <tr>
@@ -39,4 +41,15 @@
 </table>
 
 
+  ### Tecnologias 🚀
+
+  As seguintes ferramentas foram usadas na construção do projeto:
+
+  - [x] **React-Native**
+  - [x] **JavaScript**
+
+
+ #### Ferramentas
+
+  - [**EXPO**](https://expo.dev/)
 
